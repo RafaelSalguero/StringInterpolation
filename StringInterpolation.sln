@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{876C4985-BF04-4C3F-9CBC-52EE151F8B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation.Test", "StringInterpolation.Test\StringInterpolation.Test.csproj", "{248C43D9-0BAF-439E-9E8E-8571933D33A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876C4985-BF04-4C3F-9CBC-52EE151F8B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876C4985-BF04-4C3F-9CBC-52EE151F8B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876C4985-BF04-4C3F-9CBC-52EE151F8B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876C4985-BF04-4C3F-9CBC-52EE151F8B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248C43D9-0BAF-439E-9E8E-8571933D33A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248C43D9-0BAF-439E-9E8E-8571933D33A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248C43D9-0BAF-439E-9E8E-8571933D33A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248C43D9-0BAF-439E-9E8E-8571933D33A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
